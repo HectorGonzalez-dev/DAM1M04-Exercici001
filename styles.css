@@ -2,6 +2,20 @@ p {
     color: green;
 }
 
+p::before {
+    content: "👉 ";
+    color: blue;
+}
+
+p::after {
+    content: " ✔";
+    color: green;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
 #titol {
     font-size: 24px;
     text-decoration: underline;
