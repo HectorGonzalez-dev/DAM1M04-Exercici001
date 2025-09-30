@@ -30,12 +30,16 @@ a:hover {
     color: red;
 }
 
-.verd {
+.llista-inici {
     color: green;
 }
 
-.blau {
-    color: blue;
+.llista-inici li:first-child {
+    color: red;
+}
+
+.llista-inici li:last-child {
+    color: blue
 }
 
 .gran {
