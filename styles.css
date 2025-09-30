@@ -6,3 +6,20 @@ p {
     font-size: 40px;
     text-decoration: underline;
 }
+
+.text-important {
+    color: red;
+    font-weight: bold;
+}
+
+.vermell {
+    color: red;
+}
+
+.verd {
+    color: green;
+}
+
+.blau {
+    color: blue;
+}
